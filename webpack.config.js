@@ -32,6 +32,6 @@ module.exports={
 	devServer:{
 
 	},
-	plugins:[ fff
+	plugins:[ 
 	]
 }
