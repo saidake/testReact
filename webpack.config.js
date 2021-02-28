@@ -8,7 +8,7 @@ module.exports={
 	context:__dirname,
 	mode:'development',
 	resolve:{
-		extensions:['.js','.jsx'],
+		extensions:['.js'],
 		alias:{
 			'@':path.resolve(__dirname,'./src')
 		}
