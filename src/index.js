@@ -1,7 +1,3 @@
-import React {Component} from 'react'
-
-function Ind(){
-	return React.render("<div>tetttt</div>")
-}
-
-export default Ind
+import react from 'react'
+import ReactDom from 'react-dom'
+ReactDom.render(<div>ddd</div>,document.getElementById("root"))
