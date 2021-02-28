@@ -32,5 +32,6 @@ module.exports={
 	devServer:{
 
 	},
-f
+	plugins:[
+	]
 }
